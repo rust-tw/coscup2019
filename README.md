@@ -8,7 +8,7 @@
 - [The relationship between lifetimes and dataFlow](./The_relationship_between_lifetimes_and_dataFlow.pdf) by Rnic
 - [Serverless Web Service in Rust](./Serverless_Rust.pdf) by Shing Lyu
 - [Get Started with Rust and WebAssembly](./Get_Started_with_Rust_and_WebAssembly.pdf) by Diwanshi Pandey
--[From JS to Rust-example of the cross-platform library in web/mobile](https://docs.google.com/presentation/d/1-DWcoy4c8MoVuyDCY5JbODtktrLdzGH9PimWMOUYEpY/edit#slide=id.p) by 陳孟偉
+- [From JS to Rust-example of the cross-platform library in web/mobile](https://docs.google.com/presentation/d/1-DWcoy4c8MoVuyDCY5JbODtktrLdzGH9PimWMOUYEpY/edit#slide=id.p) by 陳孟偉
 - [WhratNNLeek: A Spiking Neural Network Project by Rust](WhratNNLeek_Bali.pdf) by Bali Hsu
 - [Our future in Rust](coscup2019-our-future-in-rust.pdf) by Weihang Lo
 - [Use PEG to write a programming language parser](https://www.slideshare.net/youtang5/use-peg-to-write-a-programming-language-parser) by 李祐棠
